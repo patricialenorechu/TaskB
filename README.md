@@ -15,8 +15,8 @@ This contains email templates according to the following scenarios:
 4: Cold outreach email to a university student that may be interested in enrolling in CodePath courses offered at their campus in the near future. Imagine the audience is a university student, and you want to introduce them to the class. An outline might be:
 - An intro paragraph explaining what CodePath is.
 - Value props to the student include:
---- The class empowers you to build iOS apps! (check out blog.codepath.com for examples)
---- Training is used at Facebook, Airbnb, and other top Silicon Valley companies
---- Career matching opportunities if you do well in the course
+  - The class empowers you to build iOS apps! (check out blog.codepath.com for examples)
+  - Training is used at Facebook, Airbnb, and other top Silicon Valley companies
+  - Career matching opportunities if you do well in the course
 - We want to bring these courses to campuses all around the world
 - Link to our website to learn more and signup for our classes
